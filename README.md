@@ -2,7 +2,7 @@
 
 Server routes augmented with Zod and OpenAPI
 
-![](./assets/cover.png)
+![A Clover client example: makeFetcher calling a typed server route](./assets/preview.webp)
 
 ## Installation
 
